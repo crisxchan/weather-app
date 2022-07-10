@@ -1,0 +1,5 @@
+const loadDom = () => {
+
+};
+
+loadDom();

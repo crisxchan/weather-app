@@ -1,4 +1,3 @@
-import loadScript from './api/placeAutocomplete'
+import loadScript from './api/placeAutocomplete';
 
 loadScript();
-
